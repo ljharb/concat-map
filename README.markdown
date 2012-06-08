@@ -3,6 +3,8 @@ concat-map
 
 Concatenative mapdashery.
 
+[![build status](https://secure.travis-ci.org/substack/node-concat-map.png)](http://travis-ci.org/substack/node-concat-map)
+
 example
 =======
 
