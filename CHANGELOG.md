@@ -5,6 +5,24 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [v0.0.2](https://github.com/ljharb/node-concat-map/compare/v0.0.1...v0.0.2) - 2022-10-12
+
+### Commits
+
+- [eslint] fix indentation [`7015b7b`](https://github.com/ljharb/node-concat-map/commit/7015b7bf8a893d381e919eb68143d75c7fa85994)
+- [readme] rename, add badges [`e31ccb4`](https://github.com/ljharb/node-concat-map/commit/e31ccb443914785600eb7e1340c13808ab7f4722)
+- [actions] add reusable workflows [`95b4764`](https://github.com/ljharb/node-concat-map/commit/95b47641677a95369272389ac838f1bd5122c4f3)
+- [Dev Deps] update `tape` [`a068899`](https://github.com/ljharb/node-concat-map/commit/a068899e29a5263857a68984bfbea3fa85340766)
+- [eslint] add eslint [`e965df9`](https://github.com/ljharb/node-concat-map/commit/e965df9657255fc0be9352310d9c0cc96daf1be8)
+- [meta] add `auto-changelog` [`eee5dc2`](https://github.com/ljharb/node-concat-map/commit/eee5dc2946ee52a5e068862076fb78bc81dfca81)
+- [meta] use `npmignore` to autogenerate an npmignore file [`4a8e034`](https://github.com/ljharb/node-concat-map/commit/4a8e034e33f99490e7d0122c9d599ddc8ecf0d10)
+- Only apps should have lockfiles [`c39fa6c`](https://github.com/ljharb/node-concat-map/commit/c39fa6c0092600b744ceba645ff7abd94ef26abc)
+- [meta] update URLs [`a321524`](https://github.com/ljharb/node-concat-map/commit/a3215244d293bba7497732f90b127a2775863000)
+- [meta] add `safe-publish-latest` [`bd95e66`](https://github.com/ljharb/node-concat-map/commit/bd95e665a927c68c5351f6189e96959a55980de2)
+- [Tests] add `aud` in `posttest` [`075e7f9`](https://github.com/ljharb/node-concat-map/commit/075e7f9e6dee29f5a73ad9f5fc35368ec5bf2fbc)
+- upgrade node versions [`ac5bd7a`](https://github.com/ljharb/node-concat-map/commit/ac5bd7a95c76a862fb26d8bddfbef19821b7ec95)
+- [meta] create FUNDING.yml; add `funding` in package.json [`717b783`](https://github.com/ljharb/node-concat-map/commit/717b78381853cfb06458b6d70693a43b95f8a396)
+
 ## [v0.0.1](https://github.com/ljharb/node-concat-map/compare/v0.0.0...v0.0.1) - 2014-01-29
 
 ### Commits
