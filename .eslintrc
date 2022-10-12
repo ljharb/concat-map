@@ -1,20 +1,18 @@
 {
-    "root": true,
+	"root": true,
 
-    "extends": "@ljharb",
+	"extends": "@ljharb",
 
-    "rules": {
-        "array-bracket-newline": 0,
-        "array-bracket-spacing": 1,
-        "indent": [2, 4],
-    },
+	"rules": {
+		"array-bracket-newline": 0,
+	},
 
-    "overrides": [
-        {
-            "files": "example/**",
-            "rules": {
-                "no-console": 0,
-            },
-        },
-    ],
+	"overrides": [
+		{
+			"files": "example/**",
+			"rules": {
+				"no-console": 0,
+			},
+		},
+	],
 }

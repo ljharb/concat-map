@@ -1,66 +1,66 @@
 {
-    "name": "concat-map",
-    "description": "concatenative mapdashery",
-    "version": "0.0.1",
-    "repository": {
-        "type": "git",
-        "url": "git://github.com/substack/node-concat-map.git"
-    },
-    "main": "index.js",
-    "keywords": [
-        "concat",
-        "concatMap",
-        "map",
-        "functional",
-        "higher-order"
-    ],
-    "directories": {
-        "example": "example",
-        "test": "test"
-    },
-    "scripts": {
-        "lint": "eslint --ext=js,mjs .",
-        "pretest": "npm run lint",
-        "tests-only": "tape 'test/**/*.js'",
-        "test": "npm run tests-only",
-        "posttest": "aud --production"
-    },
-    "devDependencies": {
-        "@ljharb/eslint-config": "^21.0.0",
-        "aud": "^2.0.1",
-        "eslint": "=8.8.0",
-        "tape": "^5.6.1"
-    },
-    "license": "MIT",
-    "author": {
-        "name": "James Halliday",
-        "email": "mail@substack.net",
-        "url": "http://substack.net"
-    },
-    "testling": {
-        "files": "test/*.js",
-        "browsers": {
-            "ie": [
-                6,
-                7,
-                8,
-                9
-            ],
-            "ff": [
-                3.5,
-                10,
-                15
-            ],
-            "chrome": [
-                10,
-                22
-            ],
-            "safari": [
-                5.1
-            ],
-            "opera": [
-                12
-            ]
-        }
-    }
+	"name": "concat-map",
+	"description": "concatenative mapdashery",
+	"version": "0.0.1",
+	"repository": {
+		"type": "git",
+		"url": "git://github.com/substack/node-concat-map.git"
+	},
+	"main": "index.js",
+	"keywords": [
+		"concat",
+		"concatMap",
+		"map",
+		"functional",
+		"higher-order"
+	],
+	"directories": {
+		"example": "example",
+		"test": "test"
+	},
+	"scripts": {
+		"lint": "eslint --ext=js,mjs .",
+		"pretest": "npm run lint",
+		"tests-only": "tape 'test/**/*.js'",
+		"test": "npm run tests-only",
+		"posttest": "aud --production"
+	},
+	"devDependencies": {
+		"@ljharb/eslint-config": "^21.0.0",
+		"aud": "^2.0.1",
+		"eslint": "=8.8.0",
+		"tape": "^5.6.1"
+	},
+	"license": "MIT",
+	"author": {
+		"name": "James Halliday",
+		"email": "mail@substack.net",
+		"url": "http://substack.net"
+	},
+	"testling": {
+		"files": "test/*.js",
+		"browsers": {
+			"ie": [
+				6,
+				7,
+				8,
+				9
+			],
+			"ff": [
+				3.5,
+				10,
+				15
+			],
+			"chrome": [
+				10,
+				22
+			],
+			"safari": [
+				5.1
+			],
+			"opera": [
+				12
+			]
+		}
+	}
 }
