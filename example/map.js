@@ -1,3 +1,5 @@
+'use strict';
+
 var concatMap = require('../');
 var xs = [ 1, 2, 3, 4, 5, 6 ];
 var ys = concatMap(xs, function (x) {

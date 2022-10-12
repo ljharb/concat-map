@@ -1,3 +1,5 @@
+'use strict';
+
 var concatMap = require('../');
 var test = require('tape');
 
