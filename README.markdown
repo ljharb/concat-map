@@ -3,9 +3,9 @@ concat-map
 
 Concatenative mapdashery.
 
-[![browser support](http://ci.testling.com/substack/node-concat-map.png)](http://ci.testling.com/substack/node-concat-map)
+[![browser support](http://ci.testling.com/ljharb/concat-map.png)](http://ci.testling.com/ljharb/concat-map)
 
-[![build status](https://secure.travis-ci.org/substack/node-concat-map.png)](http://travis-ci.org/substack/node-concat-map)
+[![build status](https://secure.travis-ci.org/ljharb/concat-map.png)](http://travis-ci.org/ljharb/concat-map)
 
 example
 =======
