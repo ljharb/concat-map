@@ -70,5 +70,5 @@ This module was written while sitting high above the ground in a tree.
 [downloads-url]: https://npm-stat.com/charts.html?package=concat-map
 [codecov-image]: https://codecov.io/gh/ljharb/concat-map/branch/main/graphs/badge.svg
 [codecov-url]: https://app.codecov.io/gh/ljharb/concat-map/
-[actions-image]: https://img.shields.io/endpoint?url=https://github-actions-badge-u3jn4tfpocch.runkit.sh/ljharb/concat-map
+[actions-image]: https://img.shields.io/github/check-runs/ljharb/concat-map/main
 [actions-url]: https://github.com/ljharb/concat-map/actions
